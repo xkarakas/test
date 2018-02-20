@@ -1,2 +1,2 @@
 # test
-testing sone ideas...
+testing some ideas for the future projects
